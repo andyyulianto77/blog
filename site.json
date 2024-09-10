@@ -123,19 +123,22 @@
     },
     {
       "id": "item-52e57103-e309-4136-8c2e-fbb29983a013",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-52e57103-e309-4136-8c2e-fbb29983a013/index.html",
       "slug": "lesson-1/introduction",
       "order": 0,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
       "title": "Introduction",
-      "description": "",
+      "description": "Keamanan jaringan adalah upaya untuk melindungi sistem komputer dan jaringan dari akses, penggunaan, pengungkapan, gangguan, modifikasi, atau penghancuran informasi yang tidak sah. Singkatnya, ini ad",
       "metadata": {
         "locked": false,
         "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1723216821
+        "images": {},
+        "videos": {},
+        "updated": 1725929431,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]
