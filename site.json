@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1725938790,
+      "updated": 1725938918,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,14 +34,14 @@
       "domain": null
     },
     "theme": {
-      "element": "clean-one",
-      "path": "@haxtheweb/clean-one/clean-one.js",
-      "name": "Clean course theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "element": "haxor-slevin",
+      "path": "@haxtheweb/haxor-slevin/haxor-slevin.js",
+      "name": "Haxor Blog theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
-        "image": "",
-        "imageAlt": "",
-        "imageLink": "",
+        "image": "https://andyyulianto77.github.io/blog/files/headshot22161.5.jpg",
+        "imageAlt": "banner",
+        "imageLink": "https://i.ytimg.com/vi/lE6j9NLm2OY/maxresdefault.jpg",
         "hexCode": "#aeff00",
         "cssVariable": "--simple-colors-default-theme-deep-purple-7",
         "icon": "hax:wizard-hat"
