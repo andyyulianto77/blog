@@ -70,7 +70,17 @@
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]headshot22161.5.jpg",
+            "fullUrl": "//home/andyyulianto77/blog/files/headshot22161.5.jpg",
+            "url": "files/headshot22161.5.jpg",
+            "type": "image/jpeg",
+            "name": "headshot22161.5.jpg",
+            "size": 121821
+          }
+        ]
       }
     },
     {
