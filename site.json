@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1725938918,
+      "updated": 1725938983,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -39,7 +39,7 @@
       "name": "Haxor Blog theme",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
-        "image": "https://andyyulianto77.github.io/blog/files/headshot22161.5.jpg",
+        "image": "https://logo.com/image-cdn/images/kts928pd/production/0edce5f2a29f39d2266c1ded3a9107bfe806736a-357x352.png",
         "imageAlt": "banner",
         "imageLink": "https://i.ytimg.com/vi/lE6j9NLm2OY/maxresdefault.jpg",
         "hexCode": "#aeff00",
