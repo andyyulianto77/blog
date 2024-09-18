@@ -208,7 +208,17 @@
         "created": 1726630213,
         "updated": 1726630213,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "[object Object]voice-recording-1411182.5999999046.mp3",
+            "fullUrl": "//home/andyyulianto77/blog/files/voice-recording-1411182.5999999046.mp3",
+            "url": "files/voice-recording-1411182.5999999046.mp3",
+            "type": "audio/mpeg",
+            "name": "voice-recording-1411182.5999999046.mp3",
+            "size": 59472
+          }
+        ]
       }
     }
   ]
