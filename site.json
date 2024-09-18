@@ -162,15 +162,15 @@
       "indent": 0,
       "location": "pages/item-f64e86c0-07e8-4506-bbab-de37055087c3/index.html",
       "slug": "page-1",
-      "order": 1,
+      "order": 3,
       "parent": null,
       "title": "Page",
-      "description": "",
+      "description": "Nama siswa yang bermain game tembak-tembakan adalah M. Reyhan dan Aziz\n\n",
       "metadata": {
         "created": 1726620079,
-        "updated": 1726620079,
-        "images": [],
-        "videos": [],
+        "updated": 1726620254,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "[object Object]voice-recording-187733.59999999404.mp3",
@@ -180,7 +180,11 @@
             "name": "voice-recording-187733.59999999404.mp3",
             "size": 151224
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
