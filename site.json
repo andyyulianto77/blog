@@ -167,7 +167,17 @@
         "updated": 1726632769,
         "published": true,
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "fullUrl": "//home/andyyulianto77/blog/files/643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "url": "files/643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "type": "image/png",
+            "name": "643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "size": 1718698
+          }
+        ]
       }
     },
     {
