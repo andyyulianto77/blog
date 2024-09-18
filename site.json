@@ -125,16 +125,29 @@
       "indent": 0,
       "location": "pages/item-72a5228c-d0bd-4b96-a124-f64e18dea25a/index.html",
       "slug": "lesson-1",
-      "order": 1,
+      "order": 2,
       "parent": null,
       "title": "Lesson 1",
-      "description": "",
+      "description": "Hai ini kelasku bersama anak-anak yang amazing&#160;😃di tahun 2024&#160;\n\n\n\n",
       "metadata": {
         "locked": false,
         "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1723216821
+        "images": {},
+        "videos": {},
+        "updated": 1726633302,
+        "files": [
+          {
+            "path": "[object Object]image.png",
+            "fullUrl": "//home/andyyulianto77/blog/files/image.png",
+            "url": "files/image.png",
+            "type": "image/png",
+            "name": "image.png",
+            "size": 350695
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
@@ -144,17 +157,27 @@
       "slug": "lesson-1/introduction",
       "order": 0,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Introduction",
+      "title": "Perkenalan Gang XII-9",
       "description": "Keamanan jaringan adalah upaya untuk melindungi sistem komputer dan jaringan dari akses, penggunaan, pengungkapan, gangguan, modifikasi, atau penghancuran informasi yang tidak sah. Singkatnya, ini ad",
       "metadata": {
         "locked": false,
         "created": 1723216821,
         "images": {},
         "videos": {},
-        "updated": 1725929431,
+        "updated": 1726633672,
         "published": true,
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "fullUrl": "//home/andyyulianto77/blog/files/643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "url": "files/643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "type": "image/png",
+            "name": "643eb293a129ee7d2fe6013c633a6d85-image.png",
+            "size": 1718698
+          }
+        ]
       }
     },
     {
