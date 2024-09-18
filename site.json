@@ -185,6 +185,14 @@
             "type": "audio/mpeg",
             "name": "voice-recording-1691721.1000003815.mp3",
             "size": 40656
+          },
+          {
+            "path": "[object Object]voice-recording-1894211.3000001907.mp3",
+            "fullUrl": "//home/andyyulianto77/blog/files/voice-recording-1894211.3000001907.mp3",
+            "url": "files/voice-recording-1894211.3000001907.mp3",
+            "type": "audio/mpeg",
+            "name": "voice-recording-1894211.3000001907.mp3",
+            "size": 38856
           }
         ],
         "status": ""
