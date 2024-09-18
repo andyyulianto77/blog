@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1725938983,
+      "updated": 1725943742,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,10 +34,10 @@
       "domain": null
     },
     "theme": {
-      "element": "haxor-slevin",
-      "path": "@haxtheweb/haxor-slevin/haxor-slevin.js",
-      "name": "Haxor Blog theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "element": "clean-one",
+      "path": "@haxtheweb/clean-one/clean-one.js",
+      "name": "Clean course theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
       "variables": {
         "image": "https://logo.com/image-cdn/images/kts928pd/production/0edce5f2a29f39d2266c1ded3a9107bfe806736a-357x352.png",
         "imageAlt": "banner",
@@ -96,11 +96,11 @@
       "slug": "page",
       "order": 1,
       "parent": null,
-      "title": "Page",
+      "title": "Keamanan Jaringan",
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1723217275,
+        "updated": 1725945571,
         "images": {},
         "videos": {},
         "published": true,
@@ -154,6 +154,36 @@
         "updated": 1725929431,
         "published": true,
         "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
+      "indent": 0,
+      "location": "pages/item-f64e86c0-07e8-4506-bbab-de37055087c3/index.html",
+      "slug": "page-1",
+      "order": 3,
+      "parent": null,
+      "title": "Catatan Pembelajaran",
+      "description": "Nama siswa yang bermain game tembak-tembakan adalah M. Reyhan dan Azizi\n\n\n",
+      "metadata": {
+        "created": 1726620079,
+        "updated": 1726620328,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]voice-recording-187733.59999999404.mp3",
+            "fullUrl": "//home/andyyulianto77/blog/files/voice-recording-187733.59999999404.mp3",
+            "url": "files/voice-recording-187733.59999999404.mp3",
+            "type": "audio/mpeg",
+            "name": "voice-recording-187733.59999999404.mp3",
+            "size": 151224
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
         "readtime": 1
       }
     }
