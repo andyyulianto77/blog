@@ -156,6 +156,22 @@
         "hideInMenu": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
+      "indent": 0,
+      "location": "pages/item-f64e86c0-07e8-4506-bbab-de37055087c3/index.html",
+      "slug": "page-1",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1726620079,
+        "updated": 1726620079,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
