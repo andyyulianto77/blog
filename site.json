@@ -134,7 +134,17 @@
         "created": 1723216821,
         "images": [],
         "videos": [],
-        "updated": 1723216821
+        "updated": 1723216821,
+        "files": [
+          {
+            "path": "[object Object]image.png",
+            "fullUrl": "//home/andyyulianto77/blog/files/image.png",
+            "url": "files/image.png",
+            "type": "image/png",
+            "name": "image.png",
+            "size": 350695
+          }
+        ]
       }
     },
     {
