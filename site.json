@@ -286,7 +286,17 @@
         "pageType": "activity",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]69c60e2937512768baf561a3310f2037-image.png",
+            "fullUrl": "//home/andyyulianto77/blog/files/69c60e2937512768baf561a3310f2037-image.png",
+            "url": "files/69c60e2937512768baf561a3310f2037-image.png",
+            "type": "image/png",
+            "name": "69c60e2937512768baf561a3310f2037-image.png",
+            "size": 293987
+          }
+        ]
       }
     }
   ]
