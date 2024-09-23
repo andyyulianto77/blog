@@ -320,7 +320,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]c351e467d9254559fcfaf60c32ee8055-image.png",
+            "fullUrl": "//home/andyyulianto77/blog/files/c351e467d9254559fcfaf60c32ee8055-image.png",
+            "url": "files/c351e467d9254559fcfaf60c32ee8055-image.png",
+            "type": "image/png",
+            "name": "c351e467d9254559fcfaf60c32ee8055-image.png",
+            "size": 1424803
+          }
+        ]
       }
     }
   ]
