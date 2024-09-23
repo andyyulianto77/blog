@@ -273,13 +273,13 @@
       "indent": 0,
       "location": "pages/item-f68d9a0f-583a-4aa4-bb69-5dc6a5d10816/index.html",
       "slug": "lesson-1/page",
-      "order": 1,
+      "order": 2,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Page",
-      "description": "Siswa yang belum mengerjakan tugas tentang keamanan akun google adalah Naufal sama Al Rafi.\nSiswa yang berpikir kritis tentang pasword google adalah Wiji sama Wahyuni.\n\nSiswa yang belum membuat jurna",
+      "title": "Catatan Kritis XII-7",
+      "description": "Siswa yang belum mengerjakan tugas tentang keamanan akun google adalah Naufal sama Al Rafi.\nSiswa yang berpikir kritis tentang pasword google adalah Wiji sama Wahyuni.\n\n",
       "metadata": {
         "created": 1727061912,
-        "updated": 1727062523,
+        "updated": 1727062541,
         "images": {},
         "videos": {},
         "published": true,
@@ -295,7 +295,9 @@
             "name": "69c60e2937512768baf561a3310f2037-image.png",
             "size": 293987
           }
-        ]
+        ],
+        "pageType": "activity",
+        "icon": "hax:ticket"
       }
     }
   ]
