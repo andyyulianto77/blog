@@ -308,15 +308,19 @@
       "indent": 0,
       "location": "pages/item-24454a1e-daba-4aa4-9f06-e151f0c378b0/index.html",
       "slug": "page-2",
-      "order": 1,
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Kritis Belajar 12-8",
+      "description": "Siswa yang belum mengumpulkan tugas adalah Tiara sama Dwi.\n",
       "metadata": {
         "created": 1727067113,
-        "updated": 1727067113,
-        "images": [],
-        "videos": []
+        "updated": 1727067234,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
