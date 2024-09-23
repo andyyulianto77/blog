@@ -200,16 +200,16 @@
     },
     {
       "id": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-f64e86c0-07e8-4506-bbab-de37055087c3/index.html",
       "slug": "page-1",
       "order": 1,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Catatan Pembelajaran",
+      "title": "Info Klas 12 Pembelajaran",
       "description": "Nama siswa yang bermain game tembak-tembakan adalah M. Reyhan dan Azizi\n\n\n",
       "metadata": {
         "created": 1726620079,
-        "updated": 1726634941,
+        "updated": 1727062641,
         "images": {},
         "videos": {},
         "files": [
@@ -234,7 +234,8 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "pageType": "activity"
       }
     },
     {
