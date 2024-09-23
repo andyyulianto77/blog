@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1726634941,
+      "updated": 1727068496,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nThis is a boilerplate so that you can add and make new things from the npx @haxtheweb/haxcms-nodejscommand\nWhat can I do?\nWe've ",
       "metadata": {
         "created": 1689962391,
-        "updated": 1727061901,
+        "updated": 1727068495,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -100,7 +100,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1726634941,
+        "updated": 1727068495,
         "images": {},
         "videos": {},
         "published": true,
@@ -134,7 +134,7 @@
         "created": 1723216821,
         "images": {},
         "videos": {},
-        "updated": 1726634941,
+        "updated": 1727068495,
         "files": [
           {
             "path": "[object Object]image.png",
@@ -153,7 +153,7 @@
     },
     {
       "id": "item-52e57103-e309-4136-8c2e-fbb29983a013",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-52e57103-e309-4136-8c2e-fbb29983a013/index.html",
       "slug": "lesson-1/introduction",
       "order": 0,
@@ -165,7 +165,7 @@
         "created": 1723216821,
         "images": {},
         "videos": {},
-        "updated": 1727062935,
+        "updated": 1727068495,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -197,12 +197,13 @@
         ],
         "status": "",
         "pageType": "activity",
-        "tags": "materi,"
+        "tags": "materi,",
+        "icon": "hax:ticket"
       }
     },
     {
       "id": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-f64e86c0-07e8-4506-bbab-de37055087c3/index.html",
       "slug": "page-1",
       "order": 1,
@@ -211,7 +212,7 @@
       "description": "Nama siswa yang bermain game tembak-tembakan adalah M. Reyhan dan Azizi\n\n\n",
       "metadata": {
         "created": 1726620079,
-        "updated": 1727062641,
+        "updated": 1727068495,
         "images": {},
         "videos": {},
         "files": [
@@ -237,12 +238,13 @@
         "locked": false,
         "readtime": 1,
         "status": "",
-        "pageType": "activity"
+        "pageType": "activity",
+        "icon": "hax:ticket"
       }
     },
     {
       "id": "item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e/index.html",
       "slug": "page-1/page",
       "order": 2,
@@ -251,7 +253,7 @@
       "description": "Siswa yang menggunakan alat praktik Susan sama Yuni\n.\n",
       "metadata": {
         "created": 1726630213,
-        "updated": 1727062593,
+        "updated": 1727068495,
         "images": {},
         "videos": {},
         "files": [
@@ -273,7 +275,7 @@
     },
     {
       "id": "item-f68d9a0f-583a-4aa4-bb69-5dc6a5d10816",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-f68d9a0f-583a-4aa4-bb69-5dc6a5d10816/index.html",
       "slug": "lesson-1/page",
       "order": 3,
@@ -282,7 +284,7 @@
       "description": "Siswa yang belum mengerjakan tugas tentang keamanan akun google adalah Naufal sama Al Rafi.\nSiswa yang berpikir kritis tentang pasword google adalah Wiji sama Wahyuni.\n\n",
       "metadata": {
         "created": 1727061912,
-        "updated": 1727062967,
+        "updated": 1727068495,
         "images": {},
         "videos": {},
         "published": true,
@@ -300,21 +302,22 @@
           }
         ],
         "pageType": "activity",
-        "icon": "hax:ticket"
+        "icon": "hax:ticket",
+        "status": ""
       }
     },
     {
       "id": "item-24454a1e-daba-4aa4-9f06-e151f0c378b0",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-24454a1e-daba-4aa4-9f06-e151f0c378b0/index.html",
       "slug": "page-2",
-      "order": 3,
-      "parent": null,
+      "order": 4,
+      "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
       "title": "Kritis Belajar 12-10",
       "description": "Siswa yang belum mengumpulkan tugas adalah Tiara sama Dwi.\n",
       "metadata": {
         "created": 1727067113,
-        "updated": 1727068454,
+        "updated": 1727068495,
         "images": {},
         "videos": {},
         "published": true,
@@ -338,7 +341,25 @@
             "name": "23-Sep-2024-di-12.11.jpg",
             "size": 123695
           }
-        ]
+        ],
+        "status": ""
+      }
+    },
+    {
+      "id": "item-31393965-2264-420c-bc6f-9a29aeab4af8",
+      "indent": 1,
+      "location": "pages/item-31393965-2264-420c-bc6f-9a29aeab4af8/index.html",
+      "slug": "lesson-1/copy-of-kritis-belajar-12-10",
+      "order": 5,
+      "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
+      "title": "Copy of Kritis Belajar 12-10",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1727068496,
+        "images": [],
+        "videos": [],
+        "updated": 1727068496
       }
     }
   ]
