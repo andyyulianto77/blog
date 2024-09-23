@@ -302,6 +302,22 @@
         "pageType": "activity",
         "icon": "hax:ticket"
       }
+    },
+    {
+      "id": "item-24454a1e-daba-4aa4-9f06-e151f0c378b0",
+      "indent": 0,
+      "location": "pages/item-24454a1e-daba-4aa4-9f06-e151f0c378b0/index.html",
+      "slug": "page-2",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727067113,
+        "updated": 1727067113,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
