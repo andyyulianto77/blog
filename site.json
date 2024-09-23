@@ -239,16 +239,16 @@
     },
     {
       "id": "item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e/index.html",
       "slug": "page-1/page",
       "order": 2,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Catatan Pembelajaran Kelas XII-08",
+      "title": "Catatan Kelas XII-08",
       "description": "Siswa yang menggunakan alat praktik Susan sama Yuni\n.\n",
       "metadata": {
         "created": 1726630213,
-        "updated": 1726634941,
+        "updated": 1727062593,
         "images": {},
         "videos": {},
         "files": [
