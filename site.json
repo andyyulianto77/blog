@@ -367,15 +367,15 @@
       "indent": 0,
       "location": "pages/item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b/index.html",
       "slug": "page-3",
-      "order": 1,
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Catatan hari Selasa",
+      "description": "Pada hari ini belajar tentang keamanan jaringan\n terutama ketika berpikir kritis (tema).\nKelas ini bertepatan dengan UTS yang diselenggarakan dalam rangka membuat laporan pada pertengahan semester pa",
       "metadata": {
         "created": 1727751644,
-        "updated": 1727751644,
-        "images": [],
-        "videos": [],
+        "updated": 1727752675,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "[object Object]headshot54023.39999997616.jpg",
@@ -385,7 +385,11 @@
             "name": "headshot54023.39999997616.jpg",
             "size": 141272
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
