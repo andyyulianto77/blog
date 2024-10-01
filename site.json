@@ -375,7 +375,17 @@
         "created": 1727751644,
         "updated": 1727751644,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "[object Object]headshot54023.39999997616.jpg",
+            "fullUrl": "//home/andyyulianto77/blog/files/headshot54023.39999997616.jpg",
+            "url": "files/headshot54023.39999997616.jpg",
+            "type": "image/jpeg",
+            "name": "headshot54023.39999997616.jpg",
+            "size": 141272
+          }
+        ]
       }
     }
   ]
