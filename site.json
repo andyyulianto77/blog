@@ -361,6 +361,22 @@
         "videos": [],
         "updated": 1727068496
       }
+    },
+    {
+      "id": "item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b",
+      "indent": 0,
+      "location": "pages/item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b/index.html",
+      "slug": "page-3",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1727751644,
+        "updated": 1727751644,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
