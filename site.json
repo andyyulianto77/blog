@@ -397,15 +397,20 @@
       "indent": 0,
       "location": "pages/item-83003c02-f950-4715-b4c8-8533ae1402d0/index.html",
       "slug": "page-4",
-      "order": 1,
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "MATERI",
+      "description": "Langkah-langkah yang dilakukan agar terjadi peningkatan keterlibatan siswa adalah dengan mengajak bukan melawan.&#160;🙂\n",
       "metadata": {
         "created": 1727831723,
-        "updated": 1727831723,
-        "images": [],
-        "videos": []
+        "updated": 1727831801,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "activity",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
