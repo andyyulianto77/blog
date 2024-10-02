@@ -365,21 +365,23 @@
       "id": "item-83003c02-f950-4715-b4c8-8533ae1402d0",
       "indent": 0,
       "location": "pages/item-83003c02-f950-4715-b4c8-8533ae1402d0/index.html",
-      "slug": "page-4",
-      "order": 2,
+      "slug": "materi praktek",
+      "order": 3,
       "parent": null,
-      "title": "MATERI",
-      "description": "Langkah-langkah yang dilakukan agar terjadi peningkatan keterlibatan siswa adalah dengan mengajak bukan melawan.&#160;🙂\n",
+      "title": "MATERI KETIKA DI KELAS",
+      "description": "Langkah-langkah yang dilakukan agar terjadi peningkatan keterlibatan siswa adalah dengan mengajak bukan melawan. 🙂\n",
       "metadata": {
         "created": 1727831723,
-        "updated": 1727831801,
+        "updated": 1727831968,
         "images": {},
         "videos": {},
         "published": true,
         "pageType": "activity",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "tags": "materi,soal",
+        "icon": "hax:ticket"
       }
     }
   ]
