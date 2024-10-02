@@ -317,16 +317,16 @@
     },
     {
       "id": "item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b/index.html",
       "slug": "page-3",
       "order": 0,
-      "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Catatan hari Selasa",
+      "parent": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
+      "title": "On Tuesday hari Selasa",
       "description": "Pada hari ini belajar tentang keamanan jaringan\n terutama ketika berpikir kritis (tema).\nKelas ini bertepatan dengan UTS yang diselenggarakan dalam rangka membuat laporan pada pertengahan semester pa",
       "metadata": {
         "created": 1727751644,
-        "updated": 1727832946,
+        "updated": 1727833569,
         "images": {},
         "videos": {},
         "files": [
@@ -343,7 +343,10 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "pageType": "activity",
+        "image": "https://images-assets.nasa.gov/image/iss069e009373/iss069e009373~thumb.jpg",
+        "tags": "materi"
       }
     },
     {
