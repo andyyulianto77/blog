@@ -90,6 +90,64 @@
       }
     },
     {
+      "id": "item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b",
+      "indent": 0,
+      "location": "pages/item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b/index.html",
+      "slug": "page-3",
+      "order": 0,
+      "parent": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
+      "title": "On Tuesday hari Selasa",
+      "description": "Pada hari ini belajar tentang keamanan jaringan\n terutama ketika berpikir kritis (tema).\nKelas ini bertepatan dengan UTS yang diselenggarakan dalam rangka membuat laporan pada pertengahan semester pa",
+      "metadata": {
+        "created": 1727751644,
+        "updated": 1727833569,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]headshot54023.39999997616.jpg",
+            "fullUrl": "//home/andyyulianto77/blog/files/headshot54023.39999997616.jpg",
+            "url": "files/headshot54023.39999997616.jpg",
+            "type": "image/jpeg",
+            "name": "headshot54023.39999997616.jpg",
+            "size": 141272
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "activity",
+        "image": "https://images-assets.nasa.gov/image/iss069e009373/iss069e009373~thumb.jpg",
+        "tags": "materi"
+      }
+    },
+    {
+      "id": "item-83003c02-f950-4715-b4c8-8533ae1402d0",
+      "indent": 0,
+      "location": "pages/item-83003c02-f950-4715-b4c8-8533ae1402d0/index.html",
+      "slug": "materi-praktek",
+      "order": 0,
+      "parent": null,
+      "title": "MATERI KETIKA DI KELAS",
+      "description": "Langkah-langkah yang dilakukan agar terjadi peningkatan keterlibatan siswa adalah dengan mengajak bukan melawan. 🙂\n",
+      "metadata": {
+        "created": 1727831723,
+        "updated": 1727832946,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "activity",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "tags": "materi,soal",
+        "icon": "hax:ticket",
+        "status": ""
+      }
+    },
+    {
       "id": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
       "indent": 0,
       "location": "pages/item-72a5228c-d0bd-4b96-a124-f64e18dea25a/index.html",
@@ -218,16 +276,16 @@
     },
     {
       "id": "item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e/index.html",
       "slug": "page-1/page",
-      "order": 3,
+      "order": 2,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
       "title": "Catatan Kelas XII-08",
       "description": "Siswa yang menggunakan alat praktik Susan sama Yuni\n.\n",
       "metadata": {
         "created": 1726630213,
-        "updated": 1727832946,
+        "updated": 1729170969,
         "images": {},
         "videos": {},
         "files": [
@@ -244,7 +302,8 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "pageType": "activity"
       }
     },
     {
@@ -282,16 +341,16 @@
     },
     {
       "id": "item-24454a1e-daba-4aa4-9f06-e151f0c378b0",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-24454a1e-daba-4aa4-9f06-e151f0c378b0/index.html",
       "slug": "page-2",
-      "order": 5,
+      "order": 4,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
       "title": "Kritis Belajar 12-10",
       "description": "Siswa yang belum mengumpulkan tugas adalah Tiara sama Dwi.\n",
       "metadata": {
         "created": 1727067113,
-        "updated": 1727832946,
+        "updated": 1729170990,
         "images": {},
         "videos": {},
         "published": true,
@@ -316,65 +375,56 @@
             "size": 123695
           }
         ],
-        "status": ""
+        "status": "",
+        "pageType": "reflect"
       }
     },
     {
-      "id": "item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b",
+      "id": "item-b000228e-7d0b-4244-99d7-349acea069d8",
       "indent": 0,
-      "location": "pages/item-908c2bee-3b8f-47f3-a2ec-35ed7a2fe89b/index.html",
-      "slug": "page-3",
-      "order": 0,
-      "parent": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
-      "title": "On Tuesday hari Selasa",
-      "description": "Pada hari ini belajar tentang keamanan jaringan\n terutama ketika berpikir kritis (tema).\nKelas ini bertepatan dengan UTS yang diselenggarakan dalam rangka membuat laporan pada pertengahan semester pa",
+      "location": "pages/item-b000228e-7d0b-4244-99d7-349acea069d8/index.html",
+      "slug": "page",
+      "order": 2,
+      "parent": null,
+      "title": "Model Pembelajaran",
+      "description": "berbagai model pembelajaran inovatif\n\n\n\n\nDeep thoughts..\n\nEFEK PENGAJARANPengaruh dan ukuran efek yang berhubungan dengan prestasi siswaMemberikan evaluasi formatifIntervensi komprehensif. Comprehe u",
       "metadata": {
-        "created": 1727751644,
-        "updated": 1727833569,
+        "created": 1730350863,
+        "updated": 1730351290,
         "images": {},
         "videos": {},
         "files": [
           {
-            "path": "[object Object]headshot54023.39999997616.jpg",
-            "fullUrl": "//home/andyyulianto77/blog/files/headshot54023.39999997616.jpg",
-            "url": "files/headshot54023.39999997616.jpg",
+            "path": "[object Object]visible.JPG",
+            "fullUrl": "//home/andyyulianto77/blog/files/visible.JPG",
+            "url": "files/visible.JPG",
             "type": "image/jpeg",
-            "name": "headshot54023.39999997616.jpg",
-            "size": 141272
+            "name": "visible.JPG",
+            "size": 32318
+          },
+          {
+            "path": "[object Object]raising.JPG",
+            "fullUrl": "//home/andyyulianto77/blog/files/raising.JPG",
+            "url": "files/raising.JPG",
+            "type": "image/jpeg",
+            "name": "raising.JPG",
+            "size": 56362
+          },
+          {
+            "path": "[object Object]efek-ajar.jpg",
+            "fullUrl": "//home/andyyulianto77/blog/files/efek-ajar.jpg",
+            "url": "files/efek-ajar.jpg",
+            "type": "image/jpeg",
+            "name": "efek-ajar.jpg",
+            "size": 134223
           }
         ],
         "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": "",
-        "pageType": "activity",
-        "image": "https://images-assets.nasa.gov/image/iss069e009373/iss069e009373~thumb.jpg",
-        "tags": "materi"
-      }
-    },
-    {
-      "id": "item-83003c02-f950-4715-b4c8-8533ae1402d0",
-      "indent": 0,
-      "location": "pages/item-83003c02-f950-4715-b4c8-8533ae1402d0/index.html",
-      "slug": "materi-praktek",
-      "order": 0,
-      "parent": null,
-      "title": "MATERI KETIKA DI KELAS",
-      "description": "Langkah-langkah yang dilakukan agar terjadi peningkatan keterlibatan siswa adalah dengan mengajak bukan melawan. 🙂\n",
-      "metadata": {
-        "created": 1727831723,
-        "updated": 1727832946,
-        "images": {},
-        "videos": {},
-        "published": true,
         "pageType": "activity",
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "tags": "materi,soal",
-        "icon": "hax:ticket",
-        "status": ""
+        "icon": "hax:ticket"
       }
     }
   ]
