@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nThis is a boilerplate so that you can add and make new things from the npx @haxtheweb/haxcms-nodejscommand\nWhat can I do?\nWe've ",
       "metadata": {
         "created": 1689962391,
-        "updated": 1726634941,
+        "updated": 1727061901,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -165,7 +165,7 @@
         "created": 1723216821,
         "images": {},
         "videos": {},
-        "updated": 1726635517,
+        "updated": 1727062935,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -195,21 +195,23 @@
             "size": 38856
           }
         ],
-        "status": ""
+        "status": "",
+        "pageType": "activity",
+        "tags": "materi,"
       }
     },
     {
       "id": "item-f64e86c0-07e8-4506-bbab-de37055087c3",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-f64e86c0-07e8-4506-bbab-de37055087c3/index.html",
       "slug": "page-1",
       "order": 1,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Catatan Pembelajaran",
+      "title": "Info Klas 12 Pembelajaran",
       "description": "Nama siswa yang bermain game tembak-tembakan adalah M. Reyhan dan Azizi\n\n\n",
       "metadata": {
         "created": 1726620079,
-        "updated": 1726634941,
+        "updated": 1727062641,
         "images": {},
         "videos": {},
         "files": [
@@ -234,21 +236,22 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "pageType": "activity"
       }
     },
     {
       "id": "item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-f58c1336-9c8c-4c18-87f1-0b19ffce8f5e/index.html",
       "slug": "page-1/page",
       "order": 2,
       "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Catatan Pembelajaran Kelas XII-08",
+      "title": "Catatan Kelas XII-08",
       "description": "Siswa yang menggunakan alat praktik Susan sama Yuni\n.\n",
       "metadata": {
         "created": 1726630213,
-        "updated": 1726634941,
+        "updated": 1727062593,
         "images": {},
         "videos": {},
         "files": [
@@ -266,6 +269,38 @@
         "locked": false,
         "readtime": 1,
         "status": ""
+      }
+    },
+    {
+      "id": "item-f68d9a0f-583a-4aa4-bb69-5dc6a5d10816",
+      "indent": 0,
+      "location": "pages/item-f68d9a0f-583a-4aa4-bb69-5dc6a5d10816/index.html",
+      "slug": "lesson-1/page",
+      "order": 3,
+      "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
+      "title": "Catatan Kritis XII-7",
+      "description": "Siswa yang belum mengerjakan tugas tentang keamanan akun google adalah Naufal sama Al Rafi.\nSiswa yang berpikir kritis tentang pasword google adalah Wiji sama Wahyuni.\n\n",
+      "metadata": {
+        "created": 1727061912,
+        "updated": 1727062967,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]69c60e2937512768baf561a3310f2037-image.png",
+            "fullUrl": "//home/andyyulianto77/blog/files/69c60e2937512768baf561a3310f2037-image.png",
+            "url": "files/69c60e2937512768baf561a3310f2037-image.png",
+            "type": "image/png",
+            "name": "69c60e2937512768baf561a3310f2037-image.png",
+            "size": 293987
+          }
+        ],
+        "pageType": "activity",
+        "icon": "hax:ticket"
       }
     }
   ]
